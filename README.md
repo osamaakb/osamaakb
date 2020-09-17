@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+you can follow me on [Medium](https://medium.com/@osamaakb) for some blogs (:
 <!--
 **osamaakb/osamaakb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
