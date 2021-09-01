@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a full stack software engineer who is very eager to learn new things and meet new people!
+I'm a coding instructor and a full stack software engineer who is very eager to learn new things and meet new people!
 
 I don't have a specific stack, as I'm happy to code with anything, but here is what I have been using recently:
 #### Front-end: TypeScript, react, NextJS, tailwind, sass, Vercel.
