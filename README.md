@@ -3,7 +3,7 @@ I'm a coding instructor and a full stack software engineer who is very eager to 
 
 I don't have a specific stack, as I'm happy to code with anything, but here is what I have been using recently:
 #### Front-end: TypeScript, react, NextJS, tailwind, sass, Vercel.
-#### Back-end: TypeScript, NodeJS, express, graphql, postman, mocha and chai
+#### Back-end: TypeScript, NodeJS, express, graphql, postman, MongoDB, postgresql, mocha and chai
 
 you can follow me on [Medium](https://medium.com/@osamaakb) for some blogs too (:
 <!--
