@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Osama, and I'm an experienced Software Engineer with a focus in backend development. I excel in building scalable, efficient systems.  Passionate about learning new things, worki
+My name is Osama, and I'm an experienced Software Engineer with a focus in backend development. I excel in building scalable, efficient systems. With expertise in microservices, database optimization, and modern frameworks like Node.js and TypeScript, I’ve delivered solutions that drive performance and reliability. I thrive on solving complex problems, collaborating with teams, and making an impact through innovation and clean code.
 
 you can follow me on [Medium](https://medium.com/@osamaakb) for some blogs (:
 <!--
