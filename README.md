@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a coding instructor and a full stack software engineer who is very eager to learn new things and meet new people!
+My name is Osama, and I'm an experienced Software Engineer with a focus in backend development. I excel in building scalable, efficient systems.  Passionate about learning new things, worki
 
 you can follow me on [Medium](https://medium.com/@osamaakb) for some blogs (:
 <!--
